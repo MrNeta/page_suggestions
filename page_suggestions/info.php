@@ -6,7 +6,7 @@ $name = 'Page Suggestions';
 $author = 'Neta';
 
 // Plugin URL
-$url = 'https://github.com/MrNeta';
+$url = 'https://github.com/MrNeta/page_suggestions';
 
 // Plugin Version
 $version = '1.0.0';
